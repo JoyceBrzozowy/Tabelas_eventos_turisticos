@@ -1,9 +1,7 @@
-# Tabelas_eventos_turisticos
+# Tabelas_eventos_turisticos 🎫
 
-Criação de tabelas de eventos Turísticos
+Criação de tabelas de eventos Turísticos 
 
-
-image.png
 
 
 A tabela "eventos" armazena informações sobre os eventos turísticos, como nome, descrição, local, data de início e fim e preço.   
