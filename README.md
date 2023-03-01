@@ -3,6 +3,9 @@
 Criação de tabelas de eventos Turísticos
 
 
+image.png
+
+
 A tabela "eventos" armazena informações sobre os eventos turísticos, como nome, descrição, local, data de início e fim e preço.   
 
 A tabela "categorias" armazena as categorias que um evento pode pertencer, como "gastronomia", "cultura", "esportes", etc.   
